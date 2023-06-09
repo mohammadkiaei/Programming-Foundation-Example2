@@ -27,4 +27,4 @@ function doSlider() {
 	ctx.fillRect(parseInt(sldrValue) * 2 + 30, y, sldrValue, sldrValue / 2);
 }
 
-// Developed by SeyedMohammadMahdi Kiaei
+// Developed by Mohammad Kiaei
