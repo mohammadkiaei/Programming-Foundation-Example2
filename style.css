@@ -1,19 +1,19 @@
 .container {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
 }
 
 h1 {
-	color: dimgray;
-	font-family: arial;
+   color: dimgray;
+   font-family: arial;
 }
 
 canvas {
-	width: 500px;
-	height: 200px;
-	background-color: orange;
+   width: 500px;
+   height: 200px;
+   background-color: orange;
 }
 
 /* Developed by Mohammad Kiaei */
