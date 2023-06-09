@@ -1,3 +1,10 @@
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
 h1 {
 	color: dimgray;
 	font-family: arial;
@@ -7,10 +14,6 @@ canvas {
 	width: 500px;
 	height: 200px;
 	background-color: orange;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
 }
 
 /* Developed by Mohammad Kiaei */
